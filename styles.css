@@ -8,3 +8,9 @@ html, body {
 h1 {
   color: #EC485D;
 }
+
+#blanco {
+  color: #FFDEDE;
+  -webkit-text-stroke: 0.1px black;
+  text-stroke: 0.1px black;
+}
