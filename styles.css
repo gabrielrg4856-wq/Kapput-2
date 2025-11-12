@@ -14,3 +14,17 @@ h1 {
   -webkit-text-stroke: 0.1px black;
   text-stroke: 0.1px black;
 }
+#button1 {
+   display: inline-block;
+  background: linear-gradient(to bottom, #69001F, #000000);
+  color: #CF0F47;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 1px;
+}
+#indexsp {
+  color: #FFDEDE;
+}
