@@ -15,7 +15,6 @@ h1 {
 #blanco {
   color: #FFDEDE;
   -webkit-text-stroke: 0.1px black;
-  text-stroke: 0.1px black;
 }
 #button1 {
    display: inline-block;
