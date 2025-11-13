@@ -3,7 +3,10 @@
 html, body {
   font-family: 'Keania One', sans-serif;
   margin: 0;
-  padding: 20px;
+  padding: 0px;
+  width: 1280px;
+  height: 841px;
+  box-sizing: border-box;
 }
 h1 {
   color: #EC485D;
