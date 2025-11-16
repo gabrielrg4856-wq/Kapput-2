@@ -1,19 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
 
-html, body {
+ body {
+ background: #3c136e;
+background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgba(10, 1, 70, 1) 54%, rgba(255, 0, 77, 1) 80%);
   font-family: 'Keania One', sans-serif;
   margin: 0;
   padding: 0px;
   width: 1300px;
-  height: 841px;
+  height: 100vh;
   box-sizing: border-box;
 }
 #tith {
   color: #EC485D;
   position: relative; 
     top: 0px;
-    left: 90px;
+    left: 40px;
     font-size: 70px;
+    top: 20px;
 }
 
 #blanco {
