@@ -96,7 +96,7 @@ html,body{
   font-size: 1.25rem; /* 20px (botones) */
   text-transform: uppercase;
   text-decoration: none;
-  letter-spacing: .7px;
+  letter-spacing: .6px;
   transition: transform .12s ease, opacity .12s ease;
   align-self: flex-start;
 }
