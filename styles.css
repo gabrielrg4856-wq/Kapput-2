@@ -45,7 +45,7 @@ html,body{
 .header{
   display:flex;
   align-items:center;
-  gap: 18px;
+  gap: 19px;
   margin-bottom: 18px;
 }
 .logo{
