@@ -83,20 +83,20 @@ html,body{
   display:flex;
   flex-direction: column;
   gap: 12px;
-  margin: 20px 0 28px 0;
+  margin: 25px 0 30px 0;
 }
 
 /* Button base */
 .btn {
   display:inline-block;
-  padding: 12px 26px;
+  padding: 13px 27px;
   border-radius: 999px;
   font-family: "Montserrat", sans-serif;
   font-weight:700;
   font-size: 1.25rem; /* 20px (botones) */
   text-transform: uppercase;
   text-decoration: none;
-  letter-spacing: .6px;
+  letter-spacing: .7px;
   transition: transform .12s ease, opacity .12s ease;
   align-self: flex-start;
 }
