@@ -67,8 +67,8 @@ html,body{
 
 /* Page section with text */
 .text {
-  max-width: 825px;
-  margin-top: 9px;
+  max-width: 820px;
+  margin-top: 8px;
 }
 .text p {
   color: #FFDEDE;
